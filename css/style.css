@@ -1,0 +1,21 @@
+body{
+    background-color: ghostwhite;
+    
+}
+ 
+
+img {
+    width: 250x;
+    height: 250px;
+    border-radius: 150px;
+    box-shadow: 5px 5px 40px;
+
+}
+
+article{
+    width: 60vw;
+    margin: auto;
+    padding: 80px;
+    background-color: azure;
+}
+
